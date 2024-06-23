@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="gustavop.campos2004@gmail.com" target="_blank">
+  <a href="mailto:gustavop.campos2004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
   <a href="https://www.linkedin.com/in/gustavo-campos-a2573722a/" target="_blank">
