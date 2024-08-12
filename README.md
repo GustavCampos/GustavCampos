@@ -83,4 +83,4 @@
 ![Gustav Campos Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavcampos&custom_title=Gustavo%20Campos%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=GustavCampos&show_icons=true&theme=tokyonight&layout=compact#gh-dark-mode-only'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=GustavCampos&layout=compact&theme=tokyonight'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=GustavCampos&layout=compact&theme=tokyonight&hide=css,html,jupyter'>
