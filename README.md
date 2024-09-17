@@ -36,7 +36,7 @@
 </p>
 
 <p align="left">
-  💼 Currently studying to become a Data Engineer at UOL Compass.
+  💼 Currently studying cloud and working on a start-up marketplace.
 </p>
 
 ---
