@@ -43,7 +43,7 @@
 
 ## Tecnologies 🔧
 ### Im used to:
-[![My Skills](https://skillicons.dev/icons?i=py,docker,linux,aws,bash,git,gcp,vscode,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,docker,linux,aws,bash,git,terraform,vscode,sqlite)](https://skillicons.dev)
 
 ### I know also:
 <p>
@@ -75,7 +75,9 @@
 
   <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
 
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">   
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
+
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 
 
