@@ -43,7 +43,7 @@
 
 ## Tecnologies 🔧
 ### Im used to:
-[![My Skills](https://skillicons.dev/icons?i=py,docker,linux,aws,bash,git,terraform,vscode,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,py,docker,linux,aws,bash,git,terraform,vscode,sqlite)](https://skillicons.dev)
 
 ### I know also:
 <p>
